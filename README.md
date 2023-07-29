@@ -30,3 +30,10 @@ Overlay for mapping system for the Wacken Open Air W:O:A
 ### Enable or Disable the overlay
 
 You can enable or disable the overlay by checking/unchecking the eye symbol in "Kartenelement"
+
+# Original Sources
+
+* [Lageplan WOA](https://www.wacken.com/fileadmin/user_upload/pdf/woa23_lageplan_A4_festival_230722.pdf)
+* [Lageplan Infield](https://www.wacken.com/fileadmin/user_upload/pdf/woa23_lageplan_A4_infield_230722.pdf)
+* [Camper-Park-Wacken](https://camper-park-map.jimdofree.com/app/download/11766989712/Camper-Park-Wacken_Campground-2023.jpg?t=1690113099)
+
